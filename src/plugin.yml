@@ -1,0 +1,12 @@
+main: me.Codename_S.YAWPITCH.main
+name: YawPitch
+version: 0.0.1
+api-version: 1.15
+author: Codename_S
+
+commands:
+  yaw:
+
+  pitch:
+
+  yawpitch:
